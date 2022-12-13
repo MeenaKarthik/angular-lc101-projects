@@ -1,0 +1,14 @@
+h1 {
+    color: yellow;
+    background-image: url('https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif');
+}
+
+hr {
+    border-width: 3px;
+    border-color: black;
+}
+
+h3 {
+    text-align: center;
+    color: green;
+}
