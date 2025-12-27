@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Blossom';
+  image1 = 'https://thumbs.dreamstime.com/b/showy-bright-prunus-kanzan-japanese-flowering-cherry-double-layer-flowers-close-up-sakura-blossom-blossoms-featuring-373559151.jpg';
+  image2 = 'https://images.photowall.com/products/61552/blossom-cherry-blossom.jpg?h=699&q=85';
+  image3 = 'https://hips.hearstapps.com/hbu.h-cdn.co/assets/16/14/2048x1355/1459784808-gettyimages-167284325_1.jpg';
 
   constructor() { }
 
