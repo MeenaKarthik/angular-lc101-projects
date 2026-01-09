@@ -1,0 +1,18 @@
+.main {
+    background-color: beige;
+}
+
+fav-photos {
+    display: block;
+    border: 5px solid purple;
+}
+
+chores-list {
+    display: block;
+    border: 5px dotted green;
+}
+
+movie-list {
+    display: block;
+    border-bottom: 5px solid orange;
+}
