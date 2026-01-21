@@ -16,3 +16,15 @@ img {
     display: block;
     margin: auto;
 }
+
+.chores p {
+    color: green;
+}
+
+.treat {
+    color: green
+}
+
+.treat p {
+    text-align: center;
+}
